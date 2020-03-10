@@ -1,4 +1,6 @@
-public class ArrayList<E> {
+package ArrayList;
+
+public class ArrayList_BSTBased<E> {
     private Node root;
 
     public E get(int index){
