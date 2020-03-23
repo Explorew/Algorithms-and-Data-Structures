@@ -1,4 +1,4 @@
-package ArrayList;
+package DataStructure.ArrayList;
 
 public class ArrayList_BSTBased<E> {
     private Node root;
