@@ -1,4 +1,4 @@
-package Leetcode.StackQuestions;
+package Leetcode.LinkedListQuestions;
 import java.util.HashSet;
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package Leetcode.StackQuestions;
+package Leetcode.LinkedListQuestions;
 /**
  * Definition for singly-linked list.
  * public class ListNode {

@@ -1,4 +1,4 @@
-package Leetcode.StackQuestions;
+package Leetcode.LinkedListQuestions;
 
 public class ReverseLinkedList_206_Iterative {
     public ListNode reverseList(ListNode head) {

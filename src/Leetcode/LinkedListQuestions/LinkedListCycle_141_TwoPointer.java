@@ -1,4 +1,4 @@
-package Leetcode.StackQuestions;
+package Leetcode.LinkedListQuestions;
 
 
 public class LinkedListCycle_141_TwoPointer {
